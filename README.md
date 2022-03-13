@@ -45,7 +45,7 @@ The way we made this code run faster was through a few key changes to the code. 
 
 ![Ticker Index Variable](https://user-images.githubusercontent.com/99626046/158084341-d3e88301-fb80-467c-800d-37d740f0559b.PNG)
 
-We then ustilized these arrays within the for loops and utilized the ticker index variable to move through the ticker index array each time the code ran through the loops. 
+We then ustilized these arrays within the for loops and utilized the tickerIndex variable to move through the ticker index array each time the code ran through the loops. 
 
 ![Loops Refactored](https://user-images.githubusercontent.com/99626046/158084505-f3914af3-1434-4553-82ad-27c016adaf83.PNG)
 
