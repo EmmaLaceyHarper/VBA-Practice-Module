@@ -51,5 +51,5 @@ We then ustilized these arrays within the for loops and utilized the ticker inde
 
 Overall this made the code much faster and will helpfully continue to help Steve in the future with various projects. He would essentially only need to edit the ticker index array to reflect the tickers he was looking to analyze to run this code on a similar set of data with different or more tickers. 
 
-##Summary
+## Summary
 Overall the refactoring helped to decrease the time for the code to run and will help Steve to run larger data sets with the same code edited to reflect a new ticker array. Overall I think there were mostly advantages to refactoring the code, however one disadvantage might be the increased complication of the code to those that are less familiar with VBA. I think although the refactored code is more efficient it is significantly harder for the less VBA inclined reader to sort through. The original code was very straight forward and ran through the information withougt having to write in more variables and arrays, however once one understand the refactored code it can be used on larger sets of data by editing the ticker index array which is clearly the biggest advantage of the original versus the refactored code. 
