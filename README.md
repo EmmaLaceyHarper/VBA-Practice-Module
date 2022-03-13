@@ -22,7 +22,7 @@ The code then indexes the list of tickers that are on both pages of the excel do
 
 From there via a series of if statements the code loops through the data and brings in the total volumes and returns for the years for each indexed stock. 
 
-![Loops](https://user-images.githubusercontent.com/99626046/158083674-f2b9bcf6-1dad-4a29-b847-d9d7fca48f94.PNG)
+![Loops](https://user-images.githubusercontent.com/99626046/158083806-ab722454-3a58-4770-85e1-d188a65eb1f4.PNG)
 
 Through our creation of the stock index we were able to analyze not only one stock's data but all twelve stocks with volume and return data on the 2017 and 2018 tabs. We then created code that formatted the data to make it much more readable with the negative returns highlighted in red and positive returns highlighted in green. This made Steve's job much easier in terms of investment analysis. 
 
